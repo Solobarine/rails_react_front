@@ -59,7 +59,7 @@
 ### Rails Back End Application <a name="back-end"></a>
 
 - You can find and clone the back end repo with the following command:
-- git clone https://github.com/solobarine/rails_react_front.git
+- git clone https://github.com/solobarine/rails_react_back.git
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
