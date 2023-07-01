@@ -24,7 +24,8 @@
   - [👥 Author ](#-author-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
-  - [🙏 Acknowledgments ](#-acknowledgments-) -[Future Features](#-future-features)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [Future Features](#-future-features)
   - [❓ FAQ (OPTIONAL) ](#-faq-optional-)
   - [📝 License ](#-license-)
 
