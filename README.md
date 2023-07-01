@@ -25,6 +25,7 @@
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [Future Features](#-future-features)
   - [❓ FAQ (OPTIONAL) ](#-faq-optional-)
   - [📝 License ](#-license-)
 
@@ -59,7 +60,7 @@
 ### Rails Back End Application <a name="back-end"></a>
 
 - You can find and clone the back end repo with the following command:
-- git clone https://github.com/solobarine/rails_react_front.git
+- git clone https://github.com/solobarine/rails_react_back.git
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -133,6 +134,13 @@ If you like this project feel free to fork it and use it as you need.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ (optional) -->
+
+## FUTURE FEATURES
+
+<p align="right">(<a href="#future-features">back to top</a>)</p>
+
+- Styling with SASS
+- Advanced Error Handling
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
